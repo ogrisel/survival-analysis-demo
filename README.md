@@ -1,8 +1,6 @@
-<img src="content/assets/dauphine_master_logo.png" width="480">
-
 # Usage
 
-Access the JupyterLite workspace by clicking the button: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://vincent-maladiere.github.io/survival-analysis-demo)
+Access the JupyterLite workspace by clicking the button: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ogrisel.github.io/survival-analysis-demo)
 
 This will open a copy of the project on your browser; feel free to run and edit it.
 
